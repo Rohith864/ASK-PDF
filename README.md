@@ -1,4 +1,4 @@
-⭐ Project Description (GitHub-Ready)
+⭐ Project Description 
 
 DocMind is an intelligent PDF Question-Answering application built using NLP and classical Machine Learning techniques.
 It allows users to upload any PDF document and instantly retrieve accurate answers to natural-language questions based on the document’s content.
